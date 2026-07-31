@@ -19,5 +19,8 @@ cd atlass-data-analytics
 pip install -r requirements.txt
 ```
 
+## CI/CD
+![CI](https://github.com/ELATLASS/atlass-data-analytics/actions/workflows/ci.yml/badge.svg)
+
 ## License
 MIT — Atlass Corp
