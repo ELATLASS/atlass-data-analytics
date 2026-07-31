@@ -1,14 +1,22 @@
-# atlass-data-analytics
+# Atlass Data Analytics
 
 > Atlass Corp — Data analysis pipelines, BI dashboards, and automation scripts
 
 ## Description
-Data analysis pipelines, BI dashboards, and automation scripts
+Python/SQL data analysis pipelines, BI dashboards, and automation scripts for Atlass Corp.
+
+## Structure
+- `pipelines/` — Data ingestion and transformation pipelines
+- `dashboards/` — BI dashboard scripts (Streamlit, Power BI)
+- `notebooks/` — Jupyter notebooks for exploratory analysis
+- `sql/` — SQL queries and schemas
+- `reports/` — Generated reports and case studies
 
 ## Getting Started
 ```bash
 git clone https://github.com/ELATLASS/atlass-data-analytics.git
 cd atlass-data-analytics
+pip install -r requirements.txt
 ```
 
 ## License
