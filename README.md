@@ -21,6 +21,8 @@ pip install -r requirements.txt
 
 ## CI/CD
 ![CI](https://github.com/ELATLASS/atlass-data-analytics/actions/workflows/ci.yml/badge.svg)
+n## 📊 Latest Case Study
+- [case-studies/data-analytics/llm-data-agents-2025-2026.md](https://github.com/ELATLASS/atlass-data-analytics/blob/main/case-studies/data-analytics/llm-data-agents-2025-2026.md)
 
 ## License
 MIT — Atlass Corp
