@@ -5,6 +5,12 @@
 ## Description
 Python/SQL data analysis pipelines, BI dashboards, and automation scripts for Atlass Corp.
 
+## Badges
+![CI](https://github.com/ELATLASS/atlass-data-analytics/actions/workflows/ci.yml/badge.svg)
+![Deploy](https://github.com/ELATLASS/atlass-data-analytics/actions/workflows/deploy.yml/badge.svg)
+![Auto Release](https://github.com/ELATLASS/atlass-data-analytics/actions/workflows/release.yml/badge.svg)
+![Dependabot](https://github.com/ELATLASS/atlass-data-analytics/actions/workflows/dependabot.yml/badge.svg)
+
 ## Structure
 - `pipelines/` — Data ingestion and transformation pipelines
 - `dashboards/` — BI dashboard scripts (Streamlit, Power BI)
@@ -21,8 +27,6 @@ pip install -r requirements.txt
 
 ## CI/CD
 ![CI](https://github.com/ELATLASS/atlass-data-analytics/actions/workflows/ci.yml/badge.svg)
-n## 📊 Latest Case Study
-- [case-studies/data-analytics/llm-data-agents-2025-2026.md](https://github.com/ELATLASS/atlass-data-analytics/blob/main/case-studies/data-analytics/llm-data-agents-2025-2026.md)
 
 ## License
 MIT — Atlass Corp
